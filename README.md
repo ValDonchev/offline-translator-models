@@ -10,8 +10,9 @@ Argos-compatible format the app consumes (CTranslate2 int8 + SentencePiece).
 ## Licenses
 
 The models are trained and published by the [Language Technology Research Group
-at the University of Helsinki](https://github.com/Helsinki-NLP/Opus-MT) under
-**CC-BY 4.0**. Conversion performed with
+at the University of Helsinki](https://github.com/Helsinki-NLP/Opus-MT) under the
+**MIT License** ([LICENSE](https://github.com/Helsinki-NLP/Opus-MT/blob/master/LICENSE),
+Copyright © 2004–2020 Jörg Tiedemann). Conversion performed with
 [CTranslate2](https://github.com/OpenNMT/CTranslate2) (Apache 2.0). Tokenization
 by [SentencePiece](https://github.com/google/sentencepiece) (Apache 2.0).
 

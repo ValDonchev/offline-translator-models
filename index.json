@@ -1190,6 +1190,20 @@
     "chrf": 0.502
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "lue",
+    "from_name": "Luvale",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-lue_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-lue_en-2_20260724.argosmodel"
+    ],
+    "bleu": 31.7,
+    "chrf": 0.469
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "luo",

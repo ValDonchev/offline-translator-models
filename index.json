@@ -28,6 +28,20 @@
     "chrf": 0.697
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "bem",
+    "from_name": "Bemba",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-bem_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-bem_en-2_20260724.argosmodel"
+    ],
+    "bleu": 33.4,
+    "chrf": 0.491
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "ceb",

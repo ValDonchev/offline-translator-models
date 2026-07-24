@@ -756,6 +756,20 @@
     "chrf": 0.62
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "ng",
+    "to_name": "Ndonga",
+    "code": "translate-en_ng",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ng-2_20260724.argosmodel"
+    ],
+    "bleu": 24.8,
+    "chrf": 0.496
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

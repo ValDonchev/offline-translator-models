@@ -238,6 +238,20 @@
     "chrf": 0.468
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "crs",
+    "to_name": "Seselwa Creole French",
+    "code": "translate-en_crs",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_crs-2_20260724.argosmodel"
+    ],
+    "bleu": 45.2,
+    "chrf": 0.617
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

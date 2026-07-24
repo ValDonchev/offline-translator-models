@@ -770,6 +770,20 @@
     "chrf": 0.496
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "niu",
+    "to_name": "Niuean",
+    "code": "translate-en_niu",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_niu-2_20260724.argosmodel"
+    ],
+    "bleu": 53.0,
+    "chrf": 0.698
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

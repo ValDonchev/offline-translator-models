@@ -210,6 +210,20 @@
     "chrf": 0.6
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "chk",
+    "to_name": "Chuukese",
+    "code": "translate-en_chk",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_chk-2_20260724.argosmodel"
+    ],
+    "bleu": 26.1,
+    "chrf": 0.468
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

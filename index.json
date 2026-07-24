@@ -56,6 +56,20 @@
     "chrf": 0.458
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "bzs",
+    "from_name": "Brazilian Sign Language",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-bzs_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-bzs_en-2_20260724.argosmodel"
+    ],
+    "bleu": 44.5,
+    "chrf": 0.605
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "ceb",

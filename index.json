@@ -938,6 +938,20 @@
     "chrf": 0.503
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "sal",
+    "to_name": "Salishan languages",
+    "code": "translate-en_sal",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_sal-2_20260724.argosmodel"
+    ],
+    "bleu": 32.6,
+    "chrf": 0.585
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

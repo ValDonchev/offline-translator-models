@@ -868,6 +868,20 @@
     "chrf": 0.638
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "ho",
+    "from_name": "Hiri Motu",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-ho_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ho_en-2_20260724.argosmodel"
+    ],
+    "bleu": 26.8,
+    "chrf": 0.428
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "ht",

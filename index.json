@@ -1036,6 +1036,20 @@
     "chrf": 0.508
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "kj",
+    "from_name": "Kuanyama",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-kj_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-kj_en-2_20260724.argosmodel"
+    ],
+    "bleu": 30.3,
+    "chrf": 0.477
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "lg",

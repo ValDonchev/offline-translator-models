@@ -1218,6 +1218,20 @@
     "chrf": 0.469
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "lun",
+    "from_name": "Lunda",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-lun_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-lun_en-2_20260724.argosmodel"
+    ],
+    "bleu": 30.6,
+    "chrf": 0.466
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "luo",

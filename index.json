@@ -1204,6 +1204,20 @@
     "chrf": 0.619
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "umb",
+    "to_name": "Umbundu",
+    "code": "translate-en_umb",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_umb-2_20260724.argosmodel"
+    ],
+    "bleu": 28.6,
+    "chrf": 0.51
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

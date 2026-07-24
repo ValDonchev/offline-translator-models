@@ -868,6 +868,20 @@
     "chrf": 0.571
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "pon",
+    "to_name": "Pohnpeian",
+    "code": "translate-en_pon",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_pon-2_20260724.argosmodel"
+    ],
+    "bleu": 32.4,
+    "chrf": 0.542
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

@@ -308,6 +308,20 @@
     "chrf": 0.568
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "fj",
+    "to_name": "Fijian",
+    "code": "translate-en_fj",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_fj-2_20260724.argosmodel"
+    ],
+    "bleu": 62.5,
+    "chrf": 0.781
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

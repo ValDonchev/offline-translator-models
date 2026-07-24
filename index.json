@@ -994,6 +994,20 @@
     "chrf": 0.646
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "ss",
+    "to_name": "Swati",
+    "code": "translate-en_ss",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ss-2_20260724.argosmodel"
+    ],
+    "bleu": 25.7,
+    "chrf": 0.541
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

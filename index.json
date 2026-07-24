@@ -1050,6 +1050,20 @@
     "chrf": 0.477
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "kl",
+    "from_name": "Kalaallisut",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-kl_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-kl_en-2_20260724.argosmodel"
+    ],
+    "bleu": 35.5,
+    "chrf": 0.443
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "lg",

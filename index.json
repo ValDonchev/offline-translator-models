@@ -1134,6 +1134,20 @@
     "chrf": 0.598
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "tpi",
+    "to_name": "Tok Pisin",
+    "code": "translate-en_tpi",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_tpi-2_20260724.argosmodel"
+    ],
+    "bleu": 38.7,
+    "chrf": 0.568
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

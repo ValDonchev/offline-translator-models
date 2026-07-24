@@ -336,6 +336,20 @@
     "chrf": 0.593
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "guw",
+    "to_name": "Gun",
+    "code": "translate-en_guw",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_guw-2_20260724.argosmodel"
+    ],
+    "bleu": 45.7,
+    "chrf": 0.634
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

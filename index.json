@@ -1330,6 +1330,20 @@
     "chrf": 0.607
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "mh",
+    "from_name": "Marshallese",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-mh_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-mh_en-2_20260724.argosmodel"
+    ],
+    "bleu": 36.5,
+    "chrf": 0.505
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "mk",

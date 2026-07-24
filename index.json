@@ -1106,6 +1106,20 @@
     "chrf": 0.636
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "to",
+    "to_name": "Tongan",
+    "code": "translate-en_to",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_to-2_20260724.argosmodel"
+    ],
+    "bleu": 56.3,
+    "chrf": 0.689
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

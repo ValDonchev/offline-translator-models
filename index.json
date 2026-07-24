@@ -42,6 +42,20 @@
     "chrf": 0.491
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "bi",
+    "from_name": "Bislama",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-bi_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-bi_en-2_20260724.argosmodel"
+    ],
+    "bleu": 30.3,
+    "chrf": 0.458
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "ceb",

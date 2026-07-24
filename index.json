@@ -1134,6 +1134,20 @@
     "chrf": 0.516
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "lu",
+    "from_name": "Luba-Katanga",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-lu_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-lu_en-2_20260724.argosmodel"
+    ],
+    "bleu": 35.7,
+    "chrf": 0.517
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "luo",

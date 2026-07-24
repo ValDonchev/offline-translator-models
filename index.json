@@ -910,6 +910,20 @@
     "chrf": 0.571
   },
   {
+    "package_version": "2.20260724",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "run",
+    "to_name": "Rundi",
+    "code": "translate-en_run",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_run-2_20260724.argosmodel"
+    ],
+    "bleu": 34.2,
+    "chrf": 0.591
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

@@ -2,104 +2,6 @@
   {
     "package_version": "2.20260723",
     "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "is",
-    "to_name": "Icelandic",
-    "code": "translate-en_is",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_is-2_20260723.argosmodel"
-    ],
-    "bleu": 25.3,
-    "chrf": 0.518
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "is",
-    "from_name": "Icelandic",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-is_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-is_en-2_20260723.argosmodel"
-    ],
-    "bleu": 51.4,
-    "chrf": 0.672
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "mk",
-    "to_name": "Macedonian",
-    "code": "translate-en_mk",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_mk-2_20260723.argosmodel"
-    ],
-    "bleu": 52.1,
-    "chrf": 0.683
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "mk",
-    "from_name": "Macedonian",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-mk_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-mk_en-2_20260723.argosmodel"
-    ],
-    "bleu": 59.8,
-    "chrf": 0.72
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "cy",
-    "to_name": "Welsh",
-    "code": "translate-en_cy",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_cy-2_20260723.argosmodel"
-    ],
-    "bleu": 25.3,
-    "chrf": 0.487
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "cy",
-    "from_name": "Welsh",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-cy_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-cy_en-2_20260723.argosmodel"
-    ],
-    "bleu": 33.0,
-    "chrf": 0.525
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "af",
-    "to_name": "Afrikaans",
-    "code": "translate-en_af",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_af-2_20260723.argosmodel"
-    ],
-    "bleu": 56.1,
-    "chrf": 0.741
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
     "from_code": "af",
     "from_name": "Afrikaans",
     "to_code": "en",
@@ -112,172 +14,18 @@
     "chrf": 0.736
   },
   {
-    "package_version": "2.20260723",
+    "package_version": "2.20260724",
     "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "mt",
-    "to_name": "Maltese",
-    "code": "translate-en_mt",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_mt-2_20260723.argosmodel"
-    ],
-    "bleu": 25.0,
-    "chrf": 0.62
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "mt",
-    "from_name": "Maltese",
+    "from_code": "bcl",
+    "from_name": "Central Bikol",
     "to_code": "en",
     "to_name": "English",
-    "code": "translate-mt_en",
+    "code": "translate-bcl_en",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-mt_en-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-bcl_en-2_20260724.argosmodel"
     ],
-    "bleu": 53.3,
-    "chrf": 0.685
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "ml",
-    "to_name": "Malayalam",
-    "code": "translate-en_ml",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ml-2_20260723.argosmodel"
-    ],
-    "bleu": 19.1,
-    "chrf": 0.536
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "ml",
-    "from_name": "Malayalam",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-ml_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ml_en-2_20260723.argosmodel"
-    ],
-    "bleu": 42.7,
-    "chrf": 0.605
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "mr",
-    "to_name": "Marathi",
-    "code": "translate-en_mr",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_mr-2_20260723.argosmodel"
-    ],
-    "bleu": 22.0,
-    "chrf": 0.397
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "mr",
-    "from_name": "Marathi",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-mr_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-mr_en-2_20260723.argosmodel"
-    ],
-    "bleu": 38.2,
-    "chrf": 0.515
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "hy",
-    "to_name": "Armenian",
-    "code": "translate-en_hy",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_hy-2_20260723.argosmodel"
-    ],
-    "bleu": 16.6,
-    "chrf": 0.404
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "hy",
-    "from_name": "Armenian",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-hy_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-hy_en-2_20260723.argosmodel"
-    ],
-    "bleu": 29.5,
-    "chrf": 0.466
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "ka",
-    "from_name": "Georgian",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-ka_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ka_en-2_20260723.argosmodel"
-    ],
-    "bleu": 37.9,
-    "chrf": 0.538
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "ht",
-    "to_name": "Haitian Creole",
-    "code": "translate-en_ht",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ht-2_20260723.argosmodel"
-    ],
-    "bleu": 45.2,
-    "chrf": 0.592
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "ht",
-    "from_name": "Haitian Creole",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-ht_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ht_en-2_20260723.argosmodel"
-    ],
-    "bleu": 57.0,
-    "chrf": 0.689
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "ceb",
-    "to_name": "Cebuano",
-    "code": "translate-en_ceb",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ceb-2_20260723.argosmodel"
-    ],
-    "bleu": 31.3,
-    "chrf": 0.6
+    "bleu": 56.1,
+    "chrf": 0.697
   },
   {
     "package_version": "2.20260723",
@@ -296,240 +44,16 @@
   {
     "package_version": "2.20260723",
     "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "ha",
-    "to_name": "Hausa",
-    "code": "translate-en_ha",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ha-2_20260723.argosmodel"
-    ],
-    "bleu": 17.6,
-    "chrf": 0.498
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "ha",
-    "from_name": "Hausa",
+    "from_code": "cy",
+    "from_name": "Welsh",
     "to_code": "en",
     "to_name": "English",
-    "code": "translate-ha_en",
+    "code": "translate-cy_en",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ha_en-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-cy_en-2_20260723.argosmodel"
     ],
-    "bleu": 39.0,
-    "chrf": 0.497
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "om",
-    "to_name": "Oromo",
-    "code": "translate-en_om",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_om-2_20260723.argosmodel"
-    ],
-    "bleu": 21.8,
-    "chrf": 0.498
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "om",
-    "from_name": "Oromo",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-om_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-om_en-2_20260723.argosmodel"
-    ],
-    "bleu": 27.3,
-    "chrf": 0.448
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "ig",
-    "to_name": "Igbo",
-    "code": "translate-en_ig",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ig-2_20260723.argosmodel"
-    ],
-    "bleu": 3.8,
-    "chrf": 0.297
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "ig",
-    "from_name": "Igbo",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-ig_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ig_en-2_20260723.argosmodel"
-    ],
-    "bleu": 46.3,
-    "chrf": 0.528
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "mg",
-    "to_name": "Malagasy",
-    "code": "translate-en_mg",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_mg-2_20260723.argosmodel"
-    ],
-    "bleu": 35.5,
-    "chrf": 0.548
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "mg",
-    "from_name": "Malagasy",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-mg_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-mg_en-2_20260723.argosmodel"
-    ],
-    "bleu": 50.2,
-    "chrf": 0.607
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "ln",
-    "to_name": "Lingala",
-    "code": "translate-en_ln",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ln-2_20260723.argosmodel"
-    ],
-    "bleu": 36.7,
-    "chrf": 0.588
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "ln",
-    "from_name": "Lingala",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-ln_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ln_en-2_20260723.argosmodel"
-    ],
-    "bleu": 35.9,
-    "chrf": 0.516
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "ny",
-    "to_name": "Nyanja",
-    "code": "translate-en_ny",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ny-2_20260723.argosmodel"
-    ],
-    "bleu": 26.8,
-    "chrf": 0.645
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "ny",
-    "from_name": "Nyanja",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-ny_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ny_en-2_20260723.argosmodel"
-    ],
-    "bleu": 44.2,
-    "chrf": 0.562
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "ilo",
-    "to_name": "Iloko",
-    "code": "translate-en_ilo",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ilo-2_20260723.argosmodel"
-    ],
-    "bleu": 33.2,
-    "chrf": 0.584
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "ilo",
-    "from_name": "Iloko",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-ilo_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ilo_en-2_20260723.argosmodel"
-    ],
-    "bleu": 36.4,
-    "chrf": 0.558
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "lg",
-    "to_name": "Ganda",
-    "code": "translate-en_lg",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_lg-2_20260723.argosmodel"
-    ],
-    "bleu": 5.7,
-    "chrf": 0.386
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "lg",
-    "from_name": "Ganda",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-lg_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-lg_en-2_20260723.argosmodel"
-    ],
-    "bleu": 5.4,
-    "chrf": 0.243
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "ee",
-    "to_name": "Ewe",
-    "code": "translate-en_ee",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ee-2_20260723.argosmodel"
-    ],
-    "bleu": 6.0,
-    "chrf": 0.347
+    "bleu": 33.0,
+    "chrf": 0.525
   },
   {
     "package_version": "2.20260723",
@@ -550,84 +74,294 @@
     "argos_version": "1.9",
     "from_code": "en",
     "from_name": "English",
-    "to_code": "pap",
-    "to_name": "Papiamento",
-    "code": "translate-en_pap",
+    "to_code": "af",
+    "to_name": "Afrikaans",
+    "code": "translate-en_af",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_pap-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_af-2_20260723.argosmodel"
     ],
-    "bleu": 52.8,
-    "chrf": 0.665
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "pap",
-    "from_name": "Papiamento",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-pap_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-pap_en-2_20260723.argosmodel"
-    ],
-    "bleu": 63.2,
-    "chrf": 0.684
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "pa",
-    "from_name": "Punjabi",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-pa_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-pa_en-2_20260723.argosmodel"
-    ],
-    "bleu": 29.3,
-    "chrf": 0.464
+    "bleu": 56.1,
+    "chrf": 0.741
   },
   {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",
     "from_name": "English",
-    "to_code": "xh",
-    "to_name": "Xhosa",
-    "code": "translate-en_xh",
+    "to_code": "ceb",
+    "to_name": "Cebuano",
+    "code": "translate-en_ceb",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_xh-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ceb-2_20260723.argosmodel"
     ],
-    "bleu": 37.9,
-    "chrf": 0.652
+    "bleu": 31.3,
+    "chrf": 0.6
   },
   {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",
     "from_name": "English",
-    "to_code": "tn",
-    "to_name": "Tswana",
-    "code": "translate-en_tn",
+    "to_code": "cy",
+    "to_name": "Welsh",
+    "code": "translate-en_cy",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_tn-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_cy-2_20260723.argosmodel"
     ],
-    "bleu": 45.5,
-    "chrf": 0.636
+    "bleu": 25.3,
+    "chrf": 0.487
   },
   {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",
     "from_name": "English",
-    "to_code": "st",
-    "to_name": "Southern Sotho",
-    "code": "translate-en_st",
+    "to_code": "ee",
+    "to_name": "Ewe",
+    "code": "translate-en_ee",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_st-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ee-2_20260723.argosmodel"
     ],
-    "bleu": 49.8,
-    "chrf": 0.665
+    "bleu": 6.0,
+    "chrf": 0.347
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "ha",
+    "to_name": "Hausa",
+    "code": "translate-en_ha",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ha-2_20260723.argosmodel"
+    ],
+    "bleu": 17.6,
+    "chrf": 0.498
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "hil",
+    "to_name": "Hiligaynon",
+    "code": "translate-en_hil",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_hil-2_20260723.argosmodel"
+    ],
+    "bleu": 49.4,
+    "chrf": 0.696
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "ht",
+    "to_name": "Haitian Creole",
+    "code": "translate-en_ht",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ht-2_20260723.argosmodel"
+    ],
+    "bleu": 45.2,
+    "chrf": 0.592
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "hy",
+    "to_name": "Armenian",
+    "code": "translate-en_hy",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_hy-2_20260723.argosmodel"
+    ],
+    "bleu": 16.6,
+    "chrf": 0.404
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "ig",
+    "to_name": "Igbo",
+    "code": "translate-en_ig",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ig-2_20260723.argosmodel"
+    ],
+    "bleu": 3.8,
+    "chrf": 0.297
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "ilo",
+    "to_name": "Iloko",
+    "code": "translate-en_ilo",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ilo-2_20260723.argosmodel"
+    ],
+    "bleu": 33.2,
+    "chrf": 0.584
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "is",
+    "to_name": "Icelandic",
+    "code": "translate-en_is",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_is-2_20260723.argosmodel"
+    ],
+    "bleu": 25.3,
+    "chrf": 0.518
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "kg",
+    "to_name": "Kongo",
+    "code": "translate-en_kg",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_kg-2_20260723.argosmodel"
+    ],
+    "bleu": 39.6,
+    "chrf": 0.613
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "lg",
+    "to_name": "Ganda",
+    "code": "translate-en_lg",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_lg-2_20260723.argosmodel"
+    ],
+    "bleu": 5.7,
+    "chrf": 0.386
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "ln",
+    "to_name": "Lingala",
+    "code": "translate-en_ln",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ln-2_20260723.argosmodel"
+    ],
+    "bleu": 36.7,
+    "chrf": 0.588
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "luo",
+    "to_name": "Luo (Kenya and Tanzania)",
+    "code": "translate-en_luo",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_luo-2_20260723.argosmodel"
+    ],
+    "bleu": 27.6,
+    "chrf": 0.495
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "mg",
+    "to_name": "Malagasy",
+    "code": "translate-en_mg",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_mg-2_20260723.argosmodel"
+    ],
+    "bleu": 35.5,
+    "chrf": 0.548
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "mk",
+    "to_name": "Macedonian",
+    "code": "translate-en_mk",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_mk-2_20260723.argosmodel"
+    ],
+    "bleu": 52.1,
+    "chrf": 0.683
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "ml",
+    "to_name": "Malayalam",
+    "code": "translate-en_ml",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ml-2_20260723.argosmodel"
+    ],
+    "bleu": 19.1,
+    "chrf": 0.536
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "mos",
+    "to_name": "Mossi",
+    "code": "translate-en_mos",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_mos-2_20260723.argosmodel"
+    ],
+    "bleu": 26.9,
+    "chrf": 0.417
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "mr",
+    "to_name": "Marathi",
+    "code": "translate-en_mr",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_mr-2_20260723.argosmodel"
+    ],
+    "bleu": 22.0,
+    "chrf": 0.397
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "mt",
+    "to_name": "Maltese",
+    "code": "translate-en_mt",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_mt-2_20260723.argosmodel"
+    ],
+    "bleu": 25.0,
+    "chrf": 0.62
   },
   {
     "package_version": "2.20260723",
@@ -646,30 +380,44 @@
   {
     "package_version": "2.20260723",
     "argos_version": "1.9",
-    "from_code": "nso",
-    "from_name": "Northern Sotho",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-nso_en",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "ny",
+    "to_name": "Nyanja",
+    "code": "translate-en_ny",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-nso_en-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_ny-2_20260723.argosmodel"
     ],
-    "bleu": 48.6,
-    "chrf": 0.634
+    "bleu": 26.8,
+    "chrf": 0.645
   },
   {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",
     "from_name": "English",
-    "to_code": "sn",
-    "to_name": "Shona",
-    "code": "translate-en_sn",
+    "to_code": "om",
+    "to_name": "Oromo",
+    "code": "translate-en_om",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_sn-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_om-2_20260723.argosmodel"
     ],
-    "bleu": 38.0,
-    "chrf": 0.646
+    "bleu": 21.8,
+    "chrf": 0.498
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "pap",
+    "to_name": "Papiamento",
+    "code": "translate-en_pap",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_pap-2_20260723.argosmodel"
+    ],
+    "bleu": 52.8,
+    "chrf": 0.665
   },
   {
     "package_version": "2.20260723",
@@ -690,6 +438,34 @@
     "argos_version": "1.9",
     "from_code": "en",
     "from_name": "English",
+    "to_code": "sn",
+    "to_name": "Shona",
+    "code": "translate-en_sn",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_sn-2_20260723.argosmodel"
+    ],
+    "bleu": 38.0,
+    "chrf": 0.646
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "st",
+    "to_name": "Southern Sotho",
+    "code": "translate-en_st",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_st-2_20260723.argosmodel"
+    ],
+    "bleu": 49.8,
+    "chrf": 0.665
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
     "to_code": "ti",
     "to_name": "Tigrinya",
     "code": "translate-en_ti",
@@ -704,42 +480,14 @@
     "argos_version": "1.9",
     "from_code": "en",
     "from_name": "English",
-    "to_code": "hil",
-    "to_name": "Hiligaynon",
-    "code": "translate-en_hil",
+    "to_code": "tn",
+    "to_name": "Tswana",
+    "code": "translate-en_tn",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_hil-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_tn-2_20260723.argosmodel"
     ],
-    "bleu": 49.4,
-    "chrf": 0.696
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "hil",
-    "from_name": "Hiligaynon",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-hil_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-hil_en-2_20260723.argosmodel"
-    ],
-    "bleu": 49.2,
-    "chrf": 0.638
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "tw",
-    "to_name": "Twi",
-    "code": "translate-en_tw",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_tw-2_20260723.argosmodel"
-    ],
-    "bleu": 38.2,
-    "chrf": 0.577
+    "bleu": 45.5,
+    "chrf": 0.636
   },
   {
     "package_version": "2.20260723",
@@ -760,42 +508,140 @@
     "argos_version": "1.9",
     "from_code": "en",
     "from_name": "English",
-    "to_code": "mos",
-    "to_name": "Mossi",
-    "code": "translate-en_mos",
+    "to_code": "tw",
+    "to_name": "Twi",
+    "code": "translate-en_tw",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_mos-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_tw-2_20260723.argosmodel"
     ],
-    "bleu": 26.9,
-    "chrf": 0.417
-  },
-  {
-    "package_version": "2.20260723",
-    "argos_version": "1.9",
-    "from_code": "mos",
-    "from_name": "Mossi",
-    "to_code": "en",
-    "to_name": "English",
-    "code": "translate-mos_en",
-    "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-mos_en-2_20260723.argosmodel"
-    ],
-    "bleu": 26.1,
-    "chrf": 0.408
+    "bleu": 38.2,
+    "chrf": 0.577
   },
   {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",
     "from_name": "English",
-    "to_code": "kg",
-    "to_name": "Kongo",
-    "code": "translate-en_kg",
+    "to_code": "xh",
+    "to_name": "Xhosa",
+    "code": "translate-en_xh",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_kg-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_xh-2_20260723.argosmodel"
     ],
-    "bleu": 39.6,
-    "chrf": 0.613
+    "bleu": 37.9,
+    "chrf": 0.652
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "ha",
+    "from_name": "Hausa",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-ha_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ha_en-2_20260723.argosmodel"
+    ],
+    "bleu": 39.0,
+    "chrf": 0.497
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "hil",
+    "from_name": "Hiligaynon",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-hil_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-hil_en-2_20260723.argosmodel"
+    ],
+    "bleu": 49.2,
+    "chrf": 0.638
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "ht",
+    "from_name": "Haitian Creole",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-ht_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ht_en-2_20260723.argosmodel"
+    ],
+    "bleu": 57.0,
+    "chrf": 0.689
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "hy",
+    "from_name": "Armenian",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-hy_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-hy_en-2_20260723.argosmodel"
+    ],
+    "bleu": 29.5,
+    "chrf": 0.466
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "ig",
+    "from_name": "Igbo",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-ig_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ig_en-2_20260723.argosmodel"
+    ],
+    "bleu": 46.3,
+    "chrf": 0.528
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "ilo",
+    "from_name": "Iloko",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-ilo_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ilo_en-2_20260723.argosmodel"
+    ],
+    "bleu": 36.4,
+    "chrf": 0.558
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "is",
+    "from_name": "Icelandic",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-is_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-is_en-2_20260723.argosmodel"
+    ],
+    "bleu": 51.4,
+    "chrf": 0.672
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "ka",
+    "from_name": "Georgian",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-ka_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ka_en-2_20260723.argosmodel"
+    ],
+    "bleu": 37.9,
+    "chrf": 0.538
   },
   {
     "package_version": "2.20260723",
@@ -814,16 +660,30 @@
   {
     "package_version": "2.20260723",
     "argos_version": "1.9",
-    "from_code": "en",
-    "from_name": "English",
-    "to_code": "luo",
-    "to_name": "Luo (Kenya and Tanzania)",
-    "code": "translate-en_luo",
+    "from_code": "lg",
+    "from_name": "Ganda",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-lg_en",
     "links": [
-      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_luo-2_20260723.argosmodel"
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-lg_en-2_20260723.argosmodel"
     ],
-    "bleu": 27.6,
-    "chrf": 0.495
+    "bleu": 5.4,
+    "chrf": 0.243
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "ln",
+    "from_name": "Lingala",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-ln_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ln_en-2_20260723.argosmodel"
+    ],
+    "bleu": 35.9,
+    "chrf": 0.516
   },
   {
     "package_version": "2.20260723",
@@ -838,5 +698,159 @@
     ],
     "bleu": 29.1,
     "chrf": 0.452
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "mg",
+    "from_name": "Malagasy",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-mg_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-mg_en-2_20260723.argosmodel"
+    ],
+    "bleu": 50.2,
+    "chrf": 0.607
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "mk",
+    "from_name": "Macedonian",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-mk_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-mk_en-2_20260723.argosmodel"
+    ],
+    "bleu": 59.8,
+    "chrf": 0.72
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "ml",
+    "from_name": "Malayalam",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-ml_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ml_en-2_20260723.argosmodel"
+    ],
+    "bleu": 42.7,
+    "chrf": 0.605
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "mos",
+    "from_name": "Mossi",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-mos_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-mos_en-2_20260723.argosmodel"
+    ],
+    "bleu": 26.1,
+    "chrf": 0.408
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "mr",
+    "from_name": "Marathi",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-mr_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-mr_en-2_20260723.argosmodel"
+    ],
+    "bleu": 38.2,
+    "chrf": 0.515
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "mt",
+    "from_name": "Maltese",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-mt_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-mt_en-2_20260723.argosmodel"
+    ],
+    "bleu": 53.3,
+    "chrf": 0.685
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "nso",
+    "from_name": "Northern Sotho",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-nso_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-nso_en-2_20260723.argosmodel"
+    ],
+    "bleu": 48.6,
+    "chrf": 0.634
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "ny",
+    "from_name": "Nyanja",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-ny_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ny_en-2_20260723.argosmodel"
+    ],
+    "bleu": 44.2,
+    "chrf": 0.562
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "om",
+    "from_name": "Oromo",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-om_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-om_en-2_20260723.argosmodel"
+    ],
+    "bleu": 27.3,
+    "chrf": 0.448
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "pa",
+    "from_name": "Punjabi",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-pa_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-pa_en-2_20260723.argosmodel"
+    ],
+    "bleu": 29.3,
+    "chrf": 0.464
+  },
+  {
+    "package_version": "2.20260723",
+    "argos_version": "1.9",
+    "from_code": "pap",
+    "from_name": "Papiamento",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-pap_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-pap_en-2_20260723.argosmodel"
+    ],
+    "bleu": 63.2,
+    "chrf": 0.684
   }
 ]

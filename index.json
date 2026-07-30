@@ -1456,6 +1456,20 @@
     "chrf": 0.466
   },
   {
+    "package_version": "2.20260730",
+    "argos_version": "1.9",
+    "from_code": "id",
+    "from_name": "Indonesian",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-id_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-id_en-2_20260730.argosmodel"
+    ],
+    "bleu": 47.7,
+    "chrf": 0.647
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "ig",

@@ -476,6 +476,20 @@
     "chrf": 0.592
   },
   {
+    "package_version": "2.20260730",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "hu",
+    "to_name": "Hungarian",
+    "code": "translate-en_hu",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_hu-2_20260730.argosmodel"
+    ],
+    "bleu": 40.1,
+    "chrf": 0.628
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

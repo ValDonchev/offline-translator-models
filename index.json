@@ -322,6 +322,20 @@
     "chrf": 0.487
   },
   {
+    "package_version": "2.20260730",
+    "argos_version": "1.9",
+    "from_code": "en",
+    "from_name": "English",
+    "to_code": "da",
+    "to_name": "Danish",
+    "code": "translate-en_da",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_da-2_20260730.argosmodel"
+    ],
+    "bleu": 60.4,
+    "chrf": 0.745
+  },
+  {
     "package_version": "2.20260723",
     "argos_version": "1.9",
     "from_code": "en",

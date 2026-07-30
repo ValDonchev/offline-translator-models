@@ -976,8 +976,8 @@
     "links": [
       "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-en_pl-2_20260730.argosmodel"
     ],
-    "bleu": 22.9,
-    "chrf": 0.489
+    "bleu": 42.0,
+    "chrf": 0.637
   },
   {
     "package_version": "2.20260724",
@@ -2054,8 +2054,8 @@
     "links": [
       "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-ro_en-2_20260730.argosmodel"
     ],
-    "bleu": 38.7,
-    "chrf": 0.512
+    "bleu": 55.2,
+    "chrf": 0.703
   },
   {
     "package_version": "2.20260730",

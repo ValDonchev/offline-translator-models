@@ -1330,6 +1330,20 @@
     "chrf": 0.739
   },
   {
+    "package_version": "2.20260730",
+    "argos_version": "1.9",
+    "from_code": "fi",
+    "from_name": "Finnish",
+    "to_code": "en",
+    "to_name": "English",
+    "code": "translate-fi_en",
+    "links": [
+      "https://github.com/ValDonchev/offline-translator-models/releases/download/v1.0/translate-fi_en-2_20260730.argosmodel"
+    ],
+    "bleu": 53.4,
+    "chrf": 0.697
+  },
+  {
     "package_version": "2.20260724",
     "argos_version": "1.9",
     "from_code": "fj",

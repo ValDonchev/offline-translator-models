@@ -2421,5 +2421,759 @@
   ],
   "code": "translate-tr_en",
   "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "sq",
+  "from_name": "Albanian",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-sq_en-1_9.argosmodel"
+  ],
+  "code": "translate-sq_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9",
+  "from_code": "eu",
+  "from_name": "Basque",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-eu_en-1_9.argosmodel"
+  ],
+  "code": "translate-eu_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "zt",
+  "from_name": "Chinese (traditional)",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-zt_en-1_9.argosmodel"
+  ],
+  "code": "translate-zt_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "sq",
+  "to_name": "Albanian",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_sq-1_9.argosmodel"
+  ],
+  "code": "translate-en_sq",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.5",
+  "argos_version": "1.5",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "az",
+  "to_name": "Azerbaijani",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_az-1_5.argosmodel"
+  ],
+  "code": "translate-en_az",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "eu",
+  "to_name": "Basque",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_eu-1_9.argosmodel"
+  ],
+  "code": "translate-en_eu",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "bn",
+  "to_name": "Bengali",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_bn-1_9.argosmodel"
+  ],
+  "code": "translate-en_bn",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "bg",
+  "to_name": "Bulgarian",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_bg-1_9.argosmodel"
+  ],
+  "code": "translate-en_bg",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "ca",
+  "to_name": "Catalan",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_ca-1_9.argosmodel"
+  ],
+  "code": "translate-en_ca",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "zt",
+  "to_name": "Chinese (traditional)",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_zt-1_9.argosmodel"
+  ],
+  "code": "translate-en_zt",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.5",
+  "argos_version": "1.5",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "eo",
+  "to_name": "Esperanto",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_eo-1_5.argosmodel"
+  ],
+  "code": "translate-en_eo",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "et",
+  "to_name": "Estonian",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_et-1_9.argosmodel"
+  ],
+  "code": "translate-en_et",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "fi",
+  "to_name": "Finnish",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_fi-1_9.argosmodel"
+  ],
+  "code": "translate-en_fi",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "gl",
+  "to_name": "Galician",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_gl-1_9.argosmodel"
+  ],
+  "code": "translate-en_gl",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "el",
+  "to_name": "Greek",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_el-1_9.argosmodel"
+  ],
+  "code": "translate-en_el",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.5",
+  "argos_version": "1.5",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "he",
+  "to_name": "Hebrew",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_he-1_5.argosmodel"
+  ],
+  "code": "translate-en_he",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.1",
+  "argos_version": "1.1",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "hi",
+  "to_name": "Hindi",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_hi-1_1.argosmodel"
+  ],
+  "code": "translate-en_hi",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.1",
+  "argos_version": "1.1",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "ga",
+  "to_name": "Irish",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_ga-1_1.argosmodel"
+  ],
+  "code": "translate-en_ga",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.1",
+  "argos_version": "1.1",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "ko",
+  "to_name": "Korean",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_ko-1_1.argosmodel"
+  ],
+  "code": "translate-en_ko",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.4",
+  "argos_version": "1.9",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "ky",
+  "to_name": "Kyrgyz",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_ky-1_4.argosmodel"
+  ],
+  "code": "translate-en_ky",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "lv",
+  "to_name": "Latvian",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_lv-1_9.argosmodel"
+  ],
+  "code": "translate-en_lv",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "ms",
+  "to_name": "Malay",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_ms-1_9.argosmodel"
+  ],
+  "code": "translate-en_ms",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "nb",
+  "to_name": "Norwegian",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_nb-1_9.argosmodel"
+  ],
+  "code": "translate-en_nb",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.5",
+  "argos_version": "1.5",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "fa",
+  "to_name": "Persian",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_fa-1_5.argosmodel"
+  ],
+  "code": "translate-en_fa",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "pb",
+  "to_name": "Portuguese (Brazil)",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_pb-1_9.argosmodel"
+  ],
+  "code": "translate-en_pb",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "ro",
+  "to_name": "Romanian",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_ro-1_9.argosmodel"
+  ],
+  "code": "translate-en_ro",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "sk",
+  "to_name": "Slovak",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_sk-1_9.argosmodel"
+  ],
+  "code": "translate-en_sk",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "sl",
+  "to_name": "Slovenian",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_sl-1_9.argosmodel"
+  ],
+  "code": "translate-en_sl",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.11",
+  "argos_version": "1.11",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "sw",
+  "to_name": "Swahili",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_sw-1_11.argosmodel"
+  ],
+  "code": "translate-en_sw",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.5",
+  "argos_version": "1.5",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "sv",
+  "to_name": "Swedish",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_sv-1_5.argosmodel"
+  ],
+  "code": "translate-en_sv",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "tl",
+  "to_name": "Tagalog",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_tl-1_9.argosmodel"
+  ],
+  "code": "translate-en_tl",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "th",
+  "to_name": "Thai",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_th-1_9.argosmodel"
+  ],
+  "code": "translate-en_th",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.4",
+  "argos_version": "1.4",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "uk",
+  "to_name": "Ukranian",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_uk-1_4.argosmodel"
+  ],
+  "code": "translate-en_uk",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "ur",
+  "to_name": "Urdu",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_ur-1_9.argosmodel"
+  ],
+  "code": "translate-en_ur",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9",
+  "from_code": "en",
+  "from_name": "English",
+  "to_code": "vi",
+  "to_name": "Vietnamese",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-en_vi-1_9.argosmodel"
+  ],
+  "code": "translate-en_vi",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.5",
+  "argos_version": "1.5",
+  "from_code": "eo",
+  "from_name": "Esperanto",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-eo_en-1_5.argosmodel"
+  ],
+  "code": "translate-eo_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "et",
+  "from_name": "Estonian",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-et_en-1_9.argosmodel"
+  ],
+  "code": "translate-et_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9",
+  "from_code": "gl",
+  "from_name": "Galician",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-gl_en-1_9.argosmodel"
+  ],
+  "code": "translate-gl_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.5",
+  "argos_version": "1.5",
+  "from_code": "he",
+  "from_name": "Hebrew",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-he_en-1_5.argosmodel"
+  ],
+  "code": "translate-he_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.1",
+  "argos_version": "1.1",
+  "from_code": "hi",
+  "from_name": "Hindi",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-hi_en-1_1.argosmodel"
+  ],
+  "code": "translate-hi_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.1",
+  "argos_version": "1.1",
+  "from_code": "ga",
+  "from_name": "Irish",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-ga_en-1_1.argosmodel"
+  ],
+  "code": "translate-ga_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.1",
+  "argos_version": "1.1",
+  "from_code": "ko",
+  "from_name": "Korean",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-ko_en-1_1.argosmodel"
+  ],
+  "code": "translate-ko_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.4",
+  "argos_version": "1.9",
+  "from_code": "ky",
+  "from_name": "Kyrgyz",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-ky_en-1_4.argosmodel"
+  ],
+  "code": "translate-ky_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "lv",
+  "from_name": "Latvian",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-lv_en-1_9.argosmodel"
+  ],
+  "code": "translate-lv_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "ms",
+  "from_name": "Malay",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-ms_en-1_9.argosmodel"
+  ],
+  "code": "translate-ms_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "nb",
+  "from_name": "Norwegian",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-nb_en-1_9.argosmodel"
+  ],
+  "code": "translate-nb_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.5",
+  "argos_version": "1.5",
+  "from_code": "fa",
+  "from_name": "Persian",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-fa_en-1_5.argosmodel"
+  ],
+  "code": "translate-fa_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9",
+  "from_code": "pb",
+  "from_name": "Portuguese (Brazil)",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-pb_en-1_9.argosmodel"
+  ],
+  "code": "translate-pb_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.0",
+  "argos_version": "1.0",
+  "from_code": "pt",
+  "from_name": "Portuguese",
+  "to_code": "es",
+  "to_name": "Spanish",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-pt_es-1_0.argosmodel"
+  ],
+  "code": "translate-pt_es",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "sk",
+  "from_name": "Slovak",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-sk_en-1_9.argosmodel"
+  ],
+  "code": "translate-sk_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "sl",
+  "from_name": "Slovenian",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-sl_en-1_9.argosmodel"
+  ],
+  "code": "translate-sl_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.0",
+  "argos_version": "1.0",
+  "from_code": "es",
+  "from_name": "Spanish",
+  "to_code": "pt",
+  "to_name": "Portuguese",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-es_pt-1_0.argosmodel"
+  ],
+  "code": "translate-es_pt",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.11",
+  "argos_version": "1.11",
+  "from_code": "sw",
+  "from_name": "Swahili",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-sw_en-1_11.argosmodel"
+  ],
+  "code": "translate-sw_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.5",
+  "argos_version": "1.5",
+  "from_code": "sv",
+  "from_name": "Swedish",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-sv_en-1_5.argosmodel"
+  ],
+  "code": "translate-sv_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "tl",
+  "from_name": "Tagalog",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-tl_en-1_9.argosmodel"
+  ],
+  "code": "translate-tl_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9.0",
+  "from_code": "th",
+  "from_name": "Thai",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-th_en-1_9.argosmodel"
+  ],
+  "code": "translate-th_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9",
+  "from_code": "ur",
+  "from_name": "Urdu",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-ur_en-1_9.argosmodel"
+  ],
+  "code": "translate-ur_en",
+  "provider": "argos"
+ },
+ {
+  "package_version": "1.9",
+  "argos_version": "1.9",
+  "from_code": "vi",
+  "from_name": "Vietnamese",
+  "to_code": "en",
+  "to_name": "English",
+  "links": [
+   "https://github.com/ValDonchev/offline-translator-models/releases/download/argos-mirror-v1/translate-vi_en-1_9.argosmodel"
+  ],
+  "code": "translate-vi_en",
+  "provider": "argos"
  }
 ]
